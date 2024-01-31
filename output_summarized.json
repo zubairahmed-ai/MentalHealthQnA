@@ -1,0 +1,492 @@
+[
+    {
+        "instruction": "what does it mean to have a mental illness?",
+        "input": null,
+        "output": "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They range in severity from mild to serious, with some requiring hospital care. It is important to understand that mental illnesses are medical conditions and not a reflection of a person's character or intelligence. They are treatable with a combination of medication and social support, leading to a reduction in symptoms and improved quality of life. With proper treatment, individuals with mental illness can lead independent and successful lives."
+    },
+    {
+        "instruction": "who does mental illness affect?",
+        "input": null,
+        "output": "Mental illness affects a significant portion of the population, with 1 in 5 adults in America and 1 in 24 adults having a serious mental illness. It can affect anyone regardless of various factors such as gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Certain conditions may be more common in different populations, like eating disorders in females and ADHD in children. Mental illnesses can develop at any age, with 75 percent of cases starting by age 24. This makes it challenging to identify and treat these disorders, as the normal changes in personality and behavior during adolescence can mask symptoms. Parents and caretakers should pay attention to changes in mood, personality, habits, and social withdrawal in children under 18, which are referred to as serious emotional disturbances (SEDs)."
+    },
+    {
+        "instruction": "what causes mental illness?",
+        "input": null,
+        "output": "Mental illness affects 1 in 5 adults in America, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Certain conditions may be more common in different populations, like eating disorders in females and attention deficit/hyperactivity disorder in children. Mental illnesses can affect all ages, with 75% developing by age 24. This makes identification and treatment difficult as the normal changes of adolescence can mask symptoms. Parents and caretakers should be aware of changes in mood, personality, habits, and social withdrawal in children under 18, known as serious emotional disturbances (SEDs)."
+    },
+    {
+        "instruction": "what are some of the warning signs of mental illness?",
+        "input": null,
+        "output": "Symptoms of mental health disorders may include confused thinking, sadness, extreme mood swings, fear or anxiety, social withdrawal, changes in eating or sleeping habits, anger, hallucinations, inability to cope, thoughts of suicide, denial of problems, physical complaints, and substance abuse. Older children and pre-teens may exhibit drug or alcohol abuse, inability to cope, changes in sleep or eating habits, physical complaints, defiance, fear of weight gain, negative mood, anger outbursts. Younger children may show changes in school performance, excessive worrying, hyperactivity, nightmares, disobedience, aggression, and temper tantrums."
+    },
+    {
+        "instruction": "can people with mental illness recover?",
+        "input": null,
+        "output": "Early identification and treatment are crucial for healing from mental illness. Various effective treatments are available depending on the nature of the illness. Proactive engagement in the recovery process is essential. While some individuals may experience a return of symptoms, careful monitoring and management can still lead to a fulfilled and productive life."
+    },
+    {
+        "instruction": "what should i do if i know someone who appears to have the symptoms of a mental disorder?",
+        "input": null,
+        "output": "While this website cannot replace professional advice, it urges individuals with symptoms to seek support from friends, family, and mental health professionals. Early identification and treatment of mental health conditions can accelerate the path to recovery. If you know someone struggling, don't assume the problem will go away on its own. Show your care and let them know about available treatment options. Consult a mental health professional or counselor if you suspect your loved one is experiencing symptoms. By expressing your support, they are more likely to seek help."
+    },
+    {
+        "instruction": "how can i find a mental health professional for myself or my child?",
+        "input": null,
+        "output": "Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area."
+    },
+    {
+        "instruction": "what treatment options are available?",
+        "input": null,
+        "output": "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+    },
+    {
+        "instruction": "if i become involved in treatment, what do i need to know?",
+        "input": null,
+        "output": "Beginning treatment can be overwhelming, so it's important to be involved and ask questions. Some important questions to ask include the cause of the illness, other common diagnoses with similar symptoms, the need for physical or neurological exams, recommended additional tests or exams, the need for an independent opinion from another psychiatrist, the most helpful treatment program for the diagnosis, involvement of other specialists in the program, the family's role in the treatment, access to the treatment providers, medications typically used for the diagnosis, the psychiatrist's experience treating the illness, and how you can help in the treatment process."
+    },
+    {
+        "instruction": "what is the difference between mental health professionals?",
+        "input": null,
+        "output": "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research."
+    },
+    {
+        "instruction": "how can i find a mental health professional right for my child or myself?",
+        "input": null,
+        "output": "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research."
+    },
+    {
+        "instruction": "if i become involved in treatment what do i need to know?",
+        "input": null,
+        "output": "When beginning treatment, it is important to stay involved and ask important questions. Some questions to ask include: the cause of the illness, other diagnoses with similar symptoms, if physical/neurological exams are conducted, additional tests recommended, the need for an independent opinion, the most helpful treatment program, involvement of other specialists, the family's role in treatment, access to treatment providers, medications used and their effects, risks associated with medication, how to determine medication effectiveness, the doctor's experience in treating the illness, and how to help in the treatment process."
+    },
+    {
+        "instruction": "where else can i get help?",
+        "input": null,
+        "output": "Finding help for mental health issues can begin by confiding in someone you trust, such as a family member, friend, or healthcare provider. They can provide referrals and recommendations for mental health practitioners. Seek out mental health resources in your area. Support is essential in healing from mental illness. In Nebraska, there are people and places that offer services to listen and help you on your recovery journey. Peer support can also be beneficial, with various organizations providing support groups led by peers or professionals for consumers, family members, and friends."
+    },
+    {
+        "instruction": "what should i know before starting a new medication?",
+        "input": null,
+        "output": "The best source for information on medications is the prescribing physician. They should be able to answer questions about the medication's purpose, when it takes effect, how to take it, and possible side effects. It is important to follow the prescribed dosage as psychiatric medications often require regular and consistent use. Missing doses or taking extra doses can have severe side effects. Some medications may take several weeks to show beneficial effects."
+    },
+    {
+        "instruction": "if i feel better after taking medication, does this mean i am \"cured\" and can stop taking it?",
+        "input": null,
+        "output": "Many people stop taking their medication when they feel their symptoms are under control or due to side effects, not realizing that symptoms may return. Stopping medication abruptly may also cause unpleasant withdrawal symptoms. It is crucial to consult with your doctor before making any changes to your treatment. Doctors and pharmacists should collaborate to ensure medications are safe and effective. Discuss your progress, side effects, and any reluctance to continue treatment with them. They can help minimize side effects or find an alternative treatment."
+    },
+    {
+        "instruction": "how can i get help paying for my medication?",
+        "input": null,
+        "output": "Pharmaceutical companies provide prescription assistance programs and drug discount cards for those in need. These programs require a doctor's consent and proof of financial status, often for those without health insurance or prescription drug benefits. Healthfinder.gov offers information on other prescription programs that individuals may qualify for."
+    },
+    {
+        "instruction": "where can i go to find therapy?",
+        "input": null,
+        "output": "Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in children's mental health). However, there are several different types of treatment and therapy that can help."
+    },
+    {
+        "instruction": "where can i learn about types of mental health treatment?",
+        "input": null,
+        "output": "Mental health conditions are often treated with medication, therapy or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team."
+    },
+    {
+        "instruction": "what are the different types of mental health professionals?",
+        "input": null,
+        "output": "There are many types of mental health professionals. Finding the right one for you may require some research."
+    },
+    {
+        "instruction": "where can i go to find a support group?",
+        "input": null,
+        "output": "Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional."
+    },
+    {
+        "instruction": "where can i go to find inpatient care?",
+        "input": null,
+        "output": "If you or someone you know is in crisis, inpatient care can help. Inpatient care can help people stabilize on new medications, adjust to new symptoms, or get the help they need."
+    },
+    {
+        "instruction": "where can i go to find other local services?",
+        "input": null,
+        "output": "There are likely plenty of resources that can be used to help you find mental health treatment in your community. These resources can help you find the right therapist, and enable you to better understand viable treatment options and the treatment process."
+    },
+    {
+        "instruction": "where can i learn more information about clinical trials?",
+        "input": null,
+        "output": "Consumers of mental health services who haven't improved despite trying different treatments may consider participating in research studies or clinical trials. These trials involve testing new medications or treatment approaches to determine their safety and effectiveness. While supporting innovation, consumers should be cautious as there are risks associated with clinical trials. It is important for individuals to understand these risks before deciding to enroll in a study."
+    },
+    {
+        "instruction": "where can i learn more information about creating a psychiatric advance directive?",
+        "input": null,
+        "output": "Similar to a medical advance directive or a health care power of attorney, a psychiatric advance directive is a legal document completed in a time of wellness that provides instructions regarding treatment or services one wishes to have or not have during a mental health crisis, and may help influence his or her care."
+    },
+    {
+        "instruction": "what is mental health?",
+        "input": null,
+        "output": "We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours."
+    },
+    {
+        "instruction": "what do i do if the support doesn't help?",
+        "input": null,
+        "output": "It can be difficult to find the things that will help you, as different things help different people. It's important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful, even when some things don't work out."
+    },
+    {
+        "instruction": "can you prevent mental health problems?",
+        "input": null,
+        "output": "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious."
+    },
+    {
+        "instruction": "are there cures for mental health problems?",
+        "input": null,
+        "output": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help."
+    },
+    {
+        "instruction": "what causes mental health problems?",
+        "input": null,
+        "output": "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events."
+    },
+    {
+        "instruction": "what do i do if i'm worried about my mental health?",
+        "input": null,
+        "output": "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help."
+    },
+    {
+        "instruction": "how do i know if i'm unwell?",
+        "input": null,
+        "output": "If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help."
+    },
+    {
+        "instruction": "what should i do if i'm worried about a friend or relative?",
+        "input": null,
+        "output": "This may depend on your relationship with them. Gently encouraging someone to seek appropriate support would be helpful to start with."
+    },
+    {
+        "instruction": "how do i deal with someone telling me what to do?",
+        "input": null,
+        "output": "Some people may advise you on good evidence of what works with the best of intentions, but it's important to find out what works best for you."
+    },
+    {
+        "instruction": "why do i need to keep informed?",
+        "input": null,
+        "output": "Staying informed during a pandemic is important for the health of your community and your mental well-being. Being knowledgeable about the virus and following accurate instructions can help reduce stress and anxiety. Research from China shows that people who had reliable information about COVID-19 felt more resilient and better equipped to handle the virus. However, it is also important to set limits and avoid consuming news all day. Stick to trusted sources and be cautious of misinformation on social media. Critical thinking skills are essential in navigating through the abundance of information."
+    },
+    {
+        "instruction": "how can i tell if health information is good or bad?",
+        "input": null,
+        "output": "This text provides guidelines for evaluating information online. It emphasizes the importance of determining the source's reliability, such as government websites, well-known health providers, and research journals. The text also cautions against misleading headlines and encourages checking the credentials of experts quoted. It highlights the need for supporting evidence and legitimate sources. The text advises being wary of sensational and fear-inducing language, and encourages seeking informative and empowering sources. Considering the motivations behind a website, such as advertising or promoting products, is also recommended. Social media is acknowledged as a valuable tool for staying connected and accessing support, but users are reminded to critically evaluate information found there. The text concludes by providing links to resources for further learning about digital and media literacy, as well as critical thinking around health claims."
+    },
+    {
+        "instruction": "why do i need a plan?",
+        "input": null,
+        "output": "When faced with uncertainties like the pandemic, it's important to focus on what you can control. Creating a plan to stay safe, follow public health measures, and take care of your mental and physical health is essential. This can include scheduling time for connecting with loved ones, setting daily tasks and goals, staying informed, and ensuring you have necessary supplies. It's also important to educate yourself on public health measures and determine how to manage changes in routine, childcare, or work. Financial supports may be needed if your job is affected. Additionally, it's crucial to have strategies in place to cope with feelings of overwhelm or hopelessness, such as engaging in calming activities or seeking support. Problem-solving skills can be helpful during challenging times, allowing you to break situations down, gather information, brainstorm solutions, and test them. Resources for problem-solving can be found through various sources."
+    },
+    {
+        "instruction": "how can i maintain social connections? what if i feel lonely?",
+        "input": null,
+        "output": "Maintaining social connections is crucial during the current pandemic, despite physical separation. Loneliness and fear are amplified by social distancing measures, so it's important to find meaningful ways to connect. Video chats, phone calls, and texts can help bridge the gap. Checking in on those who may not be online is also important. Mindless scrolling through social media isn't as effective in building strong connections as actively engaging with others. Loneliness can affect anyone, and reaching out to existing connections or joining community support groups can help. Specialized support groups and helplines are available for those who need extra support. Resources such as the BC Psychological Association and the BC COVID-19 Mental Health Network offer free counseling services. Other helplines include the BC Mental Health Support Line, Crisis Center chat, Seniors Distress Line, Youth in BC chat, and Kids Help Phone. Additional resources for managing loneliness can be found through the Canadian Mental Health Association and Visions Journal."
+    },
+    {
+        "instruction": "how can i take care of my physical health?",
+        "input": null,
+        "output": "During this time, it is crucial to prioritize both physical and mental health. Despite the temptations of comfort foods, it is important to maintain a balanced diet by incorporating fresh fruits and vegetables into your meals. If you are unable to leave your home, reach out for help and utilize grocery delivery services or assistance from friends or family. Exercise is also essential for mental well-being, so take advantage of safe outdoor activities or find online exercise classes to stay active. Additionally, ensure that you are getting enough quality sleep, as poor sleep can negatively impact mood and overall well-being. Lastly, if you have any underlying health conditions, consult with your healthcare team for any additional precautions or measures you should take."
+    },
+    {
+        "instruction": "how can i use distraction to manage difficult thoughts or feelings?",
+        "input": null,
+        "output": "Distraction can be a helpful coping mechanism for overwhelming or lonely situations. Low-effort distractions like watching TV or playing phone games can provide relief. If you have more energy, creating a daily to-do list and working on hobbies or connecting with others can be beneficial. Online learning platforms offer opportunities to take courses and learn new languages or skills. Virtual tours of museums and zoos provide ways to bring the world indoors. Maintaining healthier habits can be achieved by setting daily goals or turning activities into friendly competitions. Social media platforms are being used to organize community support and aid for neighbors. Volunteering to help with tasks like walking dogs or picking up groceries can create new connections and improve mental health, but it is important to prioritize hygiene and physical distancing."
+    },
+    {
+        "instruction": "how can i reframe the situation and find more balanced perspectives?",
+        "input": null,
+        "output": "The way we think about something affects our feelings and actions. When we are stressed or fearful, it's difficult to see the situation objectively and consider our options. People tend to focus on the negative aspects and underestimate the positive ones. Challenging negative thoughts can improve our mood and help us find new solutions. We should examine our thoughts and consider if they are realistic. Reframing our thoughts can make them more productive and hopeful. Examples include accepting cancellations for safety reasons, finding joy in new opportunities, and focusing on what we can control. It's important to acknowledge the difficulties while also recognizing the parts we can manage. The goal is not to ignore problems, but to understand the situation realistically and take control of what we can."
+    },
+    {
+        "instruction": "how can i challenge thinking traps?",
+        "input": null,
+        "output": "The text discusses the concept of thinking traps and how they can negatively impact one's emotions and behaviors. Thinking traps are distorted interpretations of situations, often focusing on the negative aspects. Common thinking traps include overgeneralizing, seeing things in black and white terms, and making negative judgments about oneself or others. These thinking traps can be more prevalent when one is experiencing negative emotions or not taking care of themselves. The text provides strategies for challenging thinking traps, such as examining the evidence, questioning harsh self-criticism, seeking input from trusted individuals, and testing beliefs in person. By challenging and replacing thinking traps, individuals can improve their mood and confidence. The text also suggests additional resources, including worksheets and articles, to support healthy thinking."
+    },
+    {
+        "instruction": "how can i manage grief?",
+        "input": null,
+        "output": "Grief can be experienced when losing something important, not just a person or pet. This can include losing security, stability, safety, social relationships, hope, goals, and milestone celebrations. It can evoke complicated emotions such as sadness, anger, frustration, fear, and hopelessness. Strategies for navigating grief include acknowledging and expressing feelings, giving oneself time, seeking support, taking care of oneself, and knowing that the intensity of grief will lessen over time. Connecting with a mental health professional may be necessary for those struggling with coping. Resources for finding support are provided, including online and phone appointments with psychologists and counselors, and helplines for both general and youth-specific support. Additional information on grief can be found in articles from Harvard Business Review, the Canadian Mental Health Association, and Mind Your Mind."
+    },
+    {
+        "instruction": "how can i find a doctor, psychiatrist, psychologist, or counsellor?",
+        "input": null,
+        "output": "To find a family doctor in BC, you can use the Find a Physician tool on the College of Physicians and Surgeons of BC website. Alternatively, you can visit a local walk-in clinic, although having a regular doctor is beneficial for ongoing care. Psychiatrists can also be found through the same college, but a doctor's referral is usually required. Registered psychologists can be found through the BC Psychological Association and the College of Psychologists of BC. For clinical counsellors, you can visit the BC Association of Clinical Counsellors. The article \"The Right Path for You: Finding your way to and through services in BC\" provides more information on the differences between these service providers."
+    },
+    {
+        "instruction": "how can i see a psychiatrist?",
+        "input": null,
+        "output": "In British Columbia, to see a psychiatrist, you need a referral from a doctor. If you don't have a regular family doctor, you can ask any doctor at a walk-in clinic for a referral. Alternatively, you may be able to make an appointment with a mental health program yourself, but this does not guarantee access to a psychiatrist. It is recommended to contact your local mental health centre to inquire about available options in your area. You can find mental health centres at www.gov.bc.ca/mentalhealth or use the Find Health Service tool on www.healthlinkbc.ca. If you need assistance finding your local mental health centre, you can call HealthlinkBC at 811."
+    },
+    {
+        "instruction": "how can i see a psychologist?",
+        "input": null,
+        "output": "To find a Registered Psychologist in British Columbia, you can visit the BC Psychological Association. You can make an appointment without a doctor's referral. However, MSP (Medical Services Plan) does not usually cover the cost, so you will have to pay for the appointment yourself. Some workplace extended health benefits or Employee (Family) Assistance Programs may cover some of the costs. If you are facing financial hardship, some psychologists offer a sliding scale based on your income. It is advised to inquire about lower-cost options for counseling by emailing the information and referrals team with your location. If you choose to see a Registered Psychologist through a public mental health center, such as a mental health team or outpatient psychiatry program, it will be covered by MSP. For any further questions or information, you can speak to your care provider."
+    },
+    {
+        "instruction": "how can i see a counsellor?",
+        "input": null,
+        "output": "Directories of counsellors can be found through various professional organizations. The BC Association of Clinical Counsellors is a resource for Registered Clinical Counsellors, while the Canadian Counselling and Psychotherapy Association is for Canadian Certified Counsellors, and the Canadian Professional Counsellors Association is for Canadian Professional Counsellors. Those seeking specialized counselling professionals, such as Marriage and Family Therapists, can refer to the Federation of Associations for Counselling Therapists in British Columbia. It is not necessary to have a doctor's referral to make an appointment with a counsellor, but the cost of the appointment is typically not covered by MSP, so individuals will need to pay for it themselves. However, workplace extended health benefits, Employee (Family) Assistance Programs, or private health insurance plans may assist with covering some costs. In cases of financial hardship, individuals can inquire about sliding scale options based on income. Lower-cost options for accessing counselling can also be explored, and individuals can contact the information and referrals team for assistance. If counselling is obtained through a public mental health centre or outpatient psychiatry program, it will be covered by MSP. Indigenous community members can access counselling services locally or through the First Nations Health Authority, and resources such as local Bands, local Friendship Centres, or the First Nations Health Authority can be contacted for further information."
+    },
+    {
+        "instruction": "how can i find a support group?",
+        "input": null,
+        "output": "Support groups are available for various experiences, including mental illness and substance abuse. These groups are offered by community organizations, schools, and support agencies. There are resources to help find a support group in British Columbia, such as consulting with a mental health care provider or contacting the Mood Disorders Association of BC or the BC Schizophrenia Society. The Canadian Mental Health Association and the Alcohol and Drug Information Referral Service also provide support groups. To find support groups in the Lower Mainland, the Red Book Online can be used. For those in school or on campus, speaking with a school counselor or the campus health and wellness office is recommended. Online support is available as well through the Here to Help website. It is important to feel safe and comfortable in a support group, and contacting the facilitator or organizer beforehand can help determine if it is a good fit. If a support group is not working for an individual, speaking with the facilitator to find alternative options is encouraged."
+    },
+    {
+        "instruction": "where can i find child and youth mental health services?",
+        "input": null,
+        "output": "To find help for a child or youth, you can encourage them to talk to a teacher or school counsellor. You can also speak to a family doctor or pediatrician, or go to a walk-in clinic. Another option is to contact your local Child & Youth Mental Health office on their walk-in days or use Kelty Mental Health's Help Finder Tool. Additionally, you can reach out to the Institute of Families for Child and Youth Mental Health's Youth-in-Residence or Parent-in-Residence for guidance and support. If you don't have one in your community, you can contact the Kelty Mental Health Resource Centre by phone or email. Visit www.familysmart.ca for more information and resources on child and youth mental health. For young people aged 12-24, you can check foundrybc.ca to see if there is a Foundry Centre in your area, which offers comprehensive mental and physical health care, social services, and support from one location."
+    },
+    {
+        "instruction": "where can older adults find help for mental health concerns?",
+        "input": null,
+        "output": "This text provides information and resources for individuals concerned about their mental health, as well as advice for those concerned about a loved one's mental health. It suggests talking to a family doctor or using a walk-in clinic, calling the Mental Health Support Line, finding local mental health centers or programs, contacting the Canadian Mental Health Association, and reaching out to senior's support organizations or groups. For general information on senior's mental health, resources from the Canadian Coalition for Seniors' Mental Health and info sheets in the Seniors and Depression Series are recommended. When expressing concern to a loved one, it advises being honest, listening to their perspective, being patient, and aiming for cooperation. If they are not ready to discuss their experiences, alternative resources such as helplines or local support organizations are provided. It also emphasizes the importance of managing expectations and seeking support for one's own well-being when dealing with a loved one's health problems."
+    },
+    {
+        "instruction": "where can i find self-help materials for depression?",
+        "input": null,
+        "output": "Self-help resources can be a helpful supplement to professional treatment for depression, but they are not a substitute for diagnosis or medical care. It is important to consult with a doctor to rule out physical causes for low mood before relying solely on self-help materials. However, once cleared by a doctor, self-help resources can provide knowledge and skills to improve mood at one's own pace. Some recommended resources include the Antidepressant Skills Workbook, which offers various workbooks tailored to specific groups such as teens, working individuals, expecting or new moms, and those dealing with health conditions. The HeretoHelp website offers info sheets on managing depression, while the Bounce Back program in British Columbia offers guided self-help with the support of a trained coach. Other resources include the Mood Disorders Association of BC videos, Kelty Mental Health Resource Centre's comprehensive list of resources, Heads Up Guys for men experiencing depression, and the BC Reproductive Mental Health Program's guides for women experiencing postpartum depression. There are also web-based programs like MoodGYM and Moodjuice, as well as numerous books and workbooks recommended by mental health professionals."
+    },
+    {
+        "instruction": "where can i find self-help materials for anxiety?",
+        "input": null,
+        "output": "Self-help resources are not a substitute for medical diagnosis or treatment, so it's important to consult with a doctor about any concerns regarding low mood to rule out physical causes. However, once you have spoken with your doctor, self-help materials can be a valuable tool to learn more about anxiety and practice different skills at your own pace. Some recommended resources include Anxiety Canada, which provides self-help resources and an app called MindShift, Kelty Mental Health Resource Centre, which offers recommended websites, books, and resources for children and teens, and the BC Reproductive Mental Health Program's guide for women experiencing anxiety during and after birth. Moodjuice is a UK program offering self-help information on various mental health concerns, including anxiety. There are also books and workbooks available for anxiety problems, and specialized bookstores and borrowing options are available in British Columbia. Bounce Back is a guided self-help program for British Columbians with mild to moderate low mood or anxiety, offering support and advice from a trained coach either in person or online."
+    },
+    {
+        "instruction": "i'm having a hard time coping with a physical health problem. where can i find help?",
+        "input": null,
+        "output": "Physical health can significantly impact mental health. Self-Management BC provides free programs and resources for adults with ongoing physical or mental health issues. They offer workshops and telephone-based support programs in multiple languages. Positive Coping with Health Conditions is a self-guided workbook created by BC psychologists and doctors. It focuses on the relationship between physical and mental health and provides skills to manage difficulties and improve relationships. Bounce Back: Reclaim Your Health is a guided self-help program for mild to moderate depression, anxiety, and low mood. It offers DVDs and workbooks, with the option of remote support from a coach. Reclaim Your Life: From illness, disability, pain, or fatigue is a booklet from the Canadian Mental Health Association that provides practical strategies for coping and returning to a normal routine. Many organizations and online support groups exist to help those with specific health problems. If one-on-one support is needed, therapists and counselors can be found through www.heretohelp.bc.ca."
+    },
+    {
+        "instruction": "when is substance use a problem? where can i go for help?",
+        "input": null,
+        "output": "There are different relationships with substances like alcohol and drugs, and people use them for various reasons. Understanding Substance Use and Helping People who Use Substances provide insights and support. You and Substance Use workbook helps reflect on personal substance use, while Making Healthier Choices offers tips for cutting back or quitting. For additional help, contact the Alcohol and Drug Information Referral Service at 1-800-663-1441. In Greater Vancouver, call 604-660-9382. To learn more about substance use, visit the Centre for Addictions Research of BC."
+    },
+    {
+        "instruction": "where can i find free or low-cost counselling?",
+        "input": null,
+        "output": "Mental health services such as counselling or therapy may be covered by the BC Medical Services Plan (MSP) if accessed through a hospital or mental health clinic. A doctor's referral is usually required for these programs. Without a referral, private mental health services can be expensive. However, some work health benefits or Employee/Family Assistance Plans may cover private counselling sessions. Some service providers may also offer a sliding scale based on income. There is a list of lower-cost counselling options in the Vancouver area available from a private clinic. Mental health organizations like Anxiety Canada or the Canadian Mental Health Association may also provide services or refer you to local resources. You can contact them directly or email for recommendations specific to your community."
+    },
+    {
+        "instruction": "can i get help paying for prescription medications?",
+        "input": null,
+        "output": "BC PharmaCare covers the cost of some medications through Plan G, the Psychiatric Medications Plan, for people who need a medication to be well but cannot afford them. Your doctor or nurse practitioner must apply for your coverage on your behalf. Coverage usually lasts for one year, and then you can reapply if needed. Talk to your care team if you're interested in Plan G."
+    },
+    {
+        "instruction": "how can i pay for mental health care?",
+        "input": null,
+        "output": "Mental health services provided by the government are often covered by MSP, but services like psychotherapy or counselling with a private practitioner are not. However, there are ways to offset the costs, such as extended health coverage, employee assistance programs, school or campus mental health services, Indigenous community services, and mental health services offered by cultural or faith communities. You may also be able to claim some costs on your income tax return. Some providers offer lower-cost services based on income, and you can contact the information and referrals team for options in your area. If cost is a barrier, speak to your doctor or call the Mental Health Support Line for more information."
+    },
+    {
+        "instruction": "how do i apply for income assistance?",
+        "input": null,
+        "output": "Provincial income assistance in Canada has three levels: basic assistance, Persons with Disabilities benefits (PWD), and Persons with Persistent and Multiple Barriers to employment benefits (PPMB). The Ministry of Social Development and Social Inclusion oversees these programs, which may cover mental illness under PWD or PPMB, but not addictions under PPMB. PWD benefits are for individuals unable to work or carry out daily activities due to a disability. The Disability Alliance of BC provides resources on applying for PWD and PPMB benefits, as well as Canada Pension Plan benefits. They offer guidance on application preparation, process navigation, and appeals. PovNet can connect applicants with advocates for support. To learn more about PWD benefits and advocacy, check out 'Getting By on Social Assistance: Navigating the welfare system' or explore other articles in the Income issue of Visions Journal."
+    },
+    {
+        "instruction": "what is msp?",
+        "input": null,
+        "output": "MSP, or the Medical Services Plan, is a health insurance program in British Columbia, Canada. It covers expenses for doctor's appointments, specialist visits, and hospital stays for medical treatment. All residents of BC must enroll in MSP and pay a monthly fee based on their income, although some employers may cover these costs. If you have questions or need assistance with MSP coverage, you can contact Health Insurance BC by phone or visit a local Service BC office. New residents must wait three months before registering for MSP, and it is important to bring your Care Card or BC Services Card to medical appointments and pharmacies."
+    },
+    {
+        "instruction": "what is a referral?",
+        "input": null,
+        "output": "A referral in healthcare is when your doctor recommends you to see a specialist. In British Columbia, a referral is required to access any specialist, and certain criteria may need to be met. Once your doctor makes the referral, the specialist's office will contact you with an appointment. It doesn't matter if you have the same family doctor or visit a walk-in clinic, the process is the same. Some mental health programs in BC don't require a doctor's referral, allowing individuals to seek help directly. This is known as a \"self-referral\" and involves an evaluation to determine if you meet the criteria for services. To find out more about programs in your area, contact your local health authority."
+    },
+    {
+        "instruction": "what's the difference between a psychiatrist and a registered psychologist?",
+        "input": null,
+        "output": "A psychiatrist is a medical doctor who specializes in mental health and can prescribe medications. They often use psychotherapy approaches to treat mental health problems and usually work at hospitals or clinics. A referral from another doctor is required to see a psychiatrist, and fees are covered by MSP in British Columbia. \n\nOn the other hand, a registered psychologist focuses on talk therapy or counseling approaches but does not prescribe medication. They have graduate degrees in psychology and can be accessed through the public or private system. In the public system, they work in hospitals or schools and require a doctor's referral. In the private system, individuals can contact psychologists directly, although fees are not covered by MSP.\n\nThe key differences between psychiatrists and psychologists lie in how they are paid and their education, but the most important factor in treatment is finding a professional who supports one's goals and with whom one feels comfortable. Recommendations for finding professionals include consulting with a family doctor, mental health organizations, community health centers, or using online search tools provided by the College of Physicians and Surgeons of British Columbia and the British Columbia Psychological Association."
+    },
+    {
+        "instruction": "what's the difference between psychotherapy and counselling?",
+        "input": null,
+        "output": "Psychotherapy and counselling are often used interchangeably to describe talk-based approaches for treating mental health issues. Professionals such as psychologists, counsellors, psychiatrists, and others can provide these services. While talking to friends or family can be helpful, therapists offer more with their training and objectivity. Different theories and techniques are used, such as cognitive-behavioural therapy which focuses on changing thoughts and behaviours. Many psychotherapies have evidence of effectiveness, including cognitive-behavioural therapy, interpersonal therapy, and emotion-focused therapy. Despite the approach chosen, certain aspects remain consistent, such as client expectations, therapist-client understanding, and the relationship between client and therapist. In fact, research shows that the therapeutic relationship itself can account for 50% of improvement. Therefore, finding a professional who aligns with personal values and beliefs is crucial. It is recommended to seek professionals who are members of professional organizations."
+    },
+    {
+        "instruction": "what's the difference between cbt and dbt?",
+        "input": null,
+        "output": "CBT (cognitive-behavioural therapy) and DBT (dialectical behaviour therapy) are two forms of psychotherapy or talk therapy.\" In both Cognitive-behavioural therapy or CBT teaches you how your thoughts, feelings. CBT is structured short-term Dialectical behaviour therapy or DBT is based on CBT with greater focus on emotional and social aspects. DBT was developed to help people cope with extreme or unstable emotions and harmful behaviours. DBT is an evidence-based approach to help people regulate emotions. It started as a treatment for borderline personality disorder. Key differences between CBT and DBT are validation and relationships. DBT teaches you that your experiences are real and it teaches you how to accept who you are. As with many talk therapies it takes time and effort to enjoy the benefits of CBT and DBT skills. But once people master skills with support from your CBT or DBT therapist"
+    },
+    {
+        "instruction": "what's the difference between antidepressants?",
+        "input": null,
+        "output": "There are many different types of antidepressant medications, and they each work in different ways. Antidepressants are divided into classes\" based on what they do and which chemical messengers in the brain (called neurotransmitters) they are thought to influence. Each class may contain several different medications SSRIs or selective serotonin reuptake inhibitors: fluoxetine (Prozac) paroxetine (Paxil) NaSSAs or noradrenergic and specific serotonergic antidepressants: mirtazapine (Remeron) which can also be classed as a TeCa or tetracyclic antidepressant. There are other classes of antidepressants (such as MAOIs or triclycics) that are much older and have more side effects or restrictions. They are usually prescribed when newer antidepressants don't work. Other medications such as lithium thyroid medication. Only medical doctors like family doctors or psychiatrists can prescribe antidepressants. If your doctor recommends that you consider antidepressants keep in mind that most people have to try a few different options before they find the right medication. It can be a frustrating process"
+    },
+    {
+        "instruction": "i received a diagnosis but i don't think it's right. what can i do?",
+        "input": null,
+        "output": "If you have concerns about a diagnosis from a professional, try discussing them with that professional for better understanding. If this doesn't resolve the issue, seek a second opinion from another professional. Second opinions are common in major health decisions and can provide a better understanding of your situation. Talk to your family doctor or go to a walk-in clinic for options and referrals to other programs or professionals if needed. For more information on how to get a second opinion, visit HealthLinkBC's factsheet on their website. Additionally, HeretoHelp offers tips on managing a mental illness diagnosis and working well with healthcare professionals."
+    },
+    {
+        "instruction": "i was prescribed an antidepressant or other psychiatric medication but i don't think it's working. what can i do?",
+        "input": null,
+        "output": "It's important to communicate with your doctor or psychiatrist about any concerns or side effects you experience with your medication. Don't stop taking or change the dose without consulting a healthcare provider. If you have an allergic reaction, call a pharmacist or seek immediate medical help depending on the severity. Pharmacists can provide information about common side effects and other important details about your medication. Finding the right medication may require some trial and error, as different people have different experiences. It's crucial to continue working with your doctor and openly share information to make informed decisions about your healthcare."
+    },
+    {
+        "instruction": "an adult in my life seems ill and won't find help. what can i do?",
+        "input": null,
+        "output": "When someone important to you is struggling and causing harm, it can be challenging to know how to help. It's important to remember that self-diagnosis can be dangerous and should be left to professionals. Additionally, the person you care about may have a different perspective on their difficulties. In most cases, the person being treated needs to be actively involved in their own recovery. Openly express your concerns and listen to their point of view, working together to find a solution. Offer to accompany them to appointments or involve someone else who may have more influence. It's also crucial to prioritize your own well-being during this time. In serious situations, the BC Mental Health Act allows someone to be held for assessment without their consent if they are at risk of harming themselves or others. However, this can be traumatic for everyone involved."
+    },
+    {
+        "instruction": "i'm worried about my child or teenager. where can i find help?",
+        "input": null,
+        "output": "If you're concerned about a young person in your family, start by talking with your family doctor or finding one through the College of Physicians and Surgeons of BC. They can offer specialized services or make referrals if needed. School counsellors can also provide support and recommend community services. The Kelty Mental Health Resource Centre at BC Children's Hospital offers information, resources, peer support, and system navigation for children, youth, and families experiencing mental health challenges. The Institute of Families for Child and Youth Mental Health advocates for healthy young people and provides resources and education events. The Canadian Mental Health Association's BC Division offers a free phone-based program called Confident Parents: Thriving Kids, which helps parents manage behavior problems in children ages 3 to 12, with a doctor's referral. HeretoHelp also provides resources on child and youth mental health and substance use."
+    },
+    {
+        "instruction": "someone i care about has a brain injury. where can i find more information?",
+        "input": null,
+        "output": "While a brain injury is not the same as a mental illness, it can lead to mental health problems. These issues may arise from the injury itself or from the emotional impact of the injury. However, mental health challenges can also occur unrelated to a brain injury. The good news is that these problems can be treated. It is recommended to seek a service provider who understands both brain injuries and mental health for effective support. The BC Brain Injury Association and the Brain Injury Association of Canada can provide further information and local support groups in British Columbia."
+    },
+    {
+        "instruction": "someone i love has been diagnosed with depression. how can i help?",
+        "input": null,
+        "output": "Supporting a loved one with depression involves acknowledging their struggle, even if you can't fully understand it. Express your recognition of their pain and offer your presence. Educate yourself about depression to dispel myths and gain insight into their experience. Listening without offering unsolicited advice can be incredibly valuable. Understand that discussing depression may be difficult for them; respect their boundaries. Recognize that people have different needs; some may benefit from emotional support, while others might prefer professional help. Encourage them to seek resources or services they are comfortable with. Remember, you're not responsible for their treatment but can support their recovery journey. In the case of suicidal thoughts, take immediate action by contacting 1-800-SUICIDE (1-800-784-2433) or using www.crisiscentrechat.ca between noon and 1 am. Your loved one's safety should always be the top priority."
+    },
+    {
+        "instruction": "someone i love has been diagnosed with schizophrenia. how can i help?",
+        "input": null,
+        "output": "When supporting a loved one with schizophrenia, start by educating yourself about the condition through reliable resources. Effective communication is key, but understand that discussing schizophrenia can be challenging for them. When they open up, listen attentively without judgment or distractions, respecting their boundaries if certain topics are off-limits. Be aware that symptoms like hallucinations and delusions can persist despite treatment, so avoid arguing about their experiences. Instead, empathize with their emotions related to these symptoms. Supporting someone with schizophrenia requires patience, empathy, and understanding. Ask them how you can assist. During episodes of psychosis, your loved one may behave in ways you don't understand; remain supportive. Take care of your well-being by maintaining your regular schedule and activities. Remember that you're not responsible for their treatment (unless they are a child under 19), but you can offer support. Encourage them to engage in treatment with their permission. Forcing or threatening treatment is generally ineffective. If your loved one is at risk of harming themselves or others and refuses help, you can have them evaluated by a psychiatrist under the Mental Health Act, involving first responders if necessary. In cases of suicidal thoughts, take immediate action by calling 1-800-SUICIDE (1-800-784-2433) or using www.crisiscentrechat.ca between noon and 1 am. Prioritize their safety."
+    },
+    {
+        "instruction": "i'm a young person and one of my parents has a mental illness. what can i do?",
+        "input": null,
+        "output": "It's important to remember that someone else's illness is not your fault and you cannot control their feelings or actions. Taking care of yourself is crucial in these situations. Educating yourself about your parent's illness can help you understand their experiences better. There are resources available on this website, including booklets and information sheets on various mental illnesses. It's normal to have a mix of emotions when a parent is unwell, such as anger, embarrassment, or fear. These feelings can affect your self-perception and relationships. Just like on an airplane, you need to prioritize your own well-being before helping others. There are programs specifically designed for young people, like the Kids in Control Support Group Program and the Super Saturday Club. If you're struggling to cope, don't hesitate to seek help from trusted adults, such as teachers, counselors, or family members. You can also reach out to organizations like Kids Help Phone, YouthinBC, or the BC Mental Health Support Line for support."
+    },
+    {
+        "instruction": "i have thoughts of suicide, or someone i care about is talking about suicide. what should i do?",
+        "input": null,
+        "output": "If you or someone you know is struggling with thoughts of suicide, there are resources available to help. You can call 1-800-SUICIDE (1-800-784-2433) or use the live chat feature at www.crisiscentrechat.ca between noon and 1am for support and local resources. In urgent situations, call 911. Having thoughts of suicide doesn't mean someone will act on them, but it indicates a need for additional support. It's important to speak with a doctor or mental health service provider if you are experiencing these thoughts, and to encourage others to seek help as well. The resource \"Coping With Suicidal Thoughts\" can provide guidance on managing difficult emotions, and there are info sheets and booklets available on suicide prevention. The Centre for Suicide Prevention offers resource toolkits tailored to different groups, including the military, young people, seniors, Aboriginal community members, and the LGBT community."
+    },
+    {
+        "instruction": "cannabis is legally allowed to 19+ but there are doctor groups saying it's potentially harmful to age 25. any use or certain use? what's myth and what's fact? if i'm a parent, what should i tell my young adult?",
+        "input": null,
+        "output": "Using cannabis can have both benefits and harms, particularly for young people. Those who use cannabis out of curiosity or while socializing with friends tend to have moderate use and lower potential for harm. However, using cannabis to cope with daily life or fit in with a social group can lead to frequent and heavier use, with little thought given to potential harms or alternative coping mechanisms. Starting cannabis use at a younger age and using it more frequently increases the potential for harm, especially as the brain is still developing until around age 25. Some young people, particularly those with predispositions to mental health issues, should avoid cannabis use, as it has been associated with an increased risk for psychosis and schizophrenia in this group. However, some individuals with serious mental health issues have reported that cannabis helps them feel less anxious or stressed. It is important to balance the potential benefits and harms of cannabis use, especially for young people with mental health concerns. Mixing cannabis with other drugs, such as alcohol, can also increase the likelihood of experiencing harm. It is advised to use substances in moderation. As a parent or caring adult an open respectful relationship with a young person is one of your best resources and ways to prevent harms from substance use. Letting the youth know they can approach you at any time to talk about cannabis. The Canadian Institute for Substance Use Research formerly CARBC"
+    },
+    {
+        "instruction": "what's the difference between mental health and mental illness?",
+        "input": null,
+        "output": "'Mental health' and 'mental illness' are increasingly being used as if they mean the same thing, but they do not. Everyone has mental health, just like everyone has health. As the World Health Organization famously says, There is no health without mental health.\" In the course of a lifetime when we talk about mental health we're talking about our mental well-being: our emotions A mental illness is an illness the affects that way people think feel health isn't like an on/off switch. There are different degrees of health. People move on a continuum ranging from great or good health to so-so health to poor health to illness or disability. For example some people have good health and have no problems going about their lives. Some people experience serious health problems just as someone who feels unwell may not have a serious illness people may have poor mental health without a mental illness. We all have days where we feel a bit down just as it's possible to have poor mental health but no mental illness it's entirely possible to have good mental health even with a diagnosis of a mental illness. That's because mental illnesses (like other health problems) are often episodic with the right supports and tools anyone can live well-however they define well-and find meaning"
+    },
+    {
+        "instruction": "where can i find more information about depression?",
+        "input": null,
+        "output": "The text provides information on various resources related to mood disorders, bipolar disorder, and depression. It mentions info sheets that offer details about mood problems, treatment options, and resources in BC. Additionally, there is a booklet called \"What is Depression?\" designed for lower literacy readers with audio in plain language. The text also highlights the availability of a screening self-test for depression and other mental health concerns, and mentions that the adult depression tool can also screen for signs of bipolar disorder. For those seeking more comprehensive information, the Managing Depression series is recommended, which includes guidance on dealing with a diagnosis of depression, working with a doctor, and preventing relapse. The text further emphasizes the importance of personal stories and experiences in helping individuals feel less isolated and alone in their struggles with depression."
+    },
+    {
+        "instruction": "what's the difference between anxiety and an anxiety disorder?",
+        "input": null,
+        "output": "Anxiety is a natural response to threats or danger that prepares our bodies to react. It can be beneficial in motivating us to prepare or accomplish tasks. However, anxiety becomes a problem when it becomes overwhelming, unmanageable, or arises unexpectedly. Anxiety disorders have a significant impact on one's life, leading to avoidance of daily activities and physical health issues. People with anxiety disorders feel trapped by their thoughts and feelings, even if they know they are not based in reality. However, anxiety disorders can be treated, and seeking help is essential. Normal anxiety is related to specific situations or problems, lasts as long as the situation, and is proportional and realistic. In contrast, anxiety disorders involve unexpected anxiety, stronger than expected responses, unrealistic fears, persistent anxiety, and difficulty controlling it. An example would be someone being nervous about flying but still being able to travel for work, while someone with an anxiety disorder may not be able to go to the airport, even if it risks their job."
+    },
+    {
+        "instruction": "what's the difference between anxiety and stress?",
+        "input": null,
+        "output": "Stress and anxiety are related but have different causes. Stress is caused by external pressures that are difficult to handle, and the symptoms usually go away once the situation is resolved. Anxiety, however, is not always easily identifiable and can stem from worries or fears about potential threats. Both stress and anxiety are common experiences, but if they persist and affect our well-being or daily life, they become problematic."
+    },
+    {
+        "instruction": "what's the difference between sadness and depression?",
+        "input": null,
+        "output": "Sadness is a normal human emotion that occurs in response to loss or difficult situations. It is temporary and does not greatly impact daily life. Depression, on the other hand, is a mental illness that affects mood, self-perception, and relationships. It is also known as clinical depression or major depressive disorder. Unlike sadness, depression is long-lasting and can arise without a specific cause. It involves feelings of worthlessness, hopelessness, and guilt, and may manifest as anger, irritability, or difficulty concentrating. Depression often leads to a loss of interest in previously enjoyed activities and social isolation. Physical symptoms like sleep problems, changes in appetite and energy levels, and unexplained aches or pains may also be present. Some individuals with depression may have thoughts of suicide. Depression typically lasts for more than two weeks and requires treatment. It is important to seek help if concerned about depression."
+    },
+    {
+        "instruction": "what is dysthymia or persistent depressive disorder?",
+        "input": null,
+        "output": "Dysthymia, now known as persistent depressive disorder (PDD), is a mood disorder closely related to major depressive disorder. The main difference lies in the number and duration of symptoms. PDD requires at least two years of experiencing two to four symptoms continuously, with no periods of wellness, while major depressive disorder necessitates experiencing five or more symptoms for at least two weeks. Symptoms of PDD can include a lack of energy, changes in appetite, low self-esteem, trouble concentrating, and feelings of hopelessness. Despite the perception that PDD is less severe than major depressive disorder, research indicates that the disability caused by PDD can be equally severe, affecting productivity and enjoyment in life. Because PDD symptoms may persist for a long time, individuals often mistake them for part of their personality rather than a treatable illness. Therefore, it is important to seek professional help if you suspect you may have PDD."
+    },
+    {
+        "instruction": "what is cyclothymic disorder?",
+        "input": null,
+        "output": "Cyclothymic disorder is a subtype of bipolar disorder characterized by symptoms of hypomania and depression. Similar to bipolar disorder, individuals with cyclothymia may experience periods of wellness between episodes. Symptoms of hypomania include elevated mood, increased energy, and decreased need for sleep, while symptoms of depression include low mood, loss of interest, and changes in appetite and sleep. It is important to seek professional help if you suspect you have cyclothymic disorder."
+    },
+    {
+        "instruction": "what does rapid cycling mean?",
+        "input": null,
+        "output": "Rapid cycling is when someone with bipolar disorder or depression has four or more episodes of depression or mania in a year. Around 10-20% of people with bipolar disorder experience rapid cycling at some point. However, in many cases, rapid cycling eventually subsides and individuals return to longer and less frequent episodes."
+    },
+    {
+        "instruction": "where can i find information and help for borderline personality disorder?",
+        "input": null,
+        "output": "Borderline personality disorder (BPD) is a treatable illness characterized by symptoms related to behaviors, emotions, relationships, identity, and awareness. The Borderline Personality Disorder Society of BC provides a support group and resource library in Victoria, as well as a service listing in BC. In Vancouver, the DBT Centre of Vancouver specializes in dialectical behavior therapy (DBT) for individuals with BPD, offering individual, group, and family counseling. They also have a blog on DBT skills. Various informative books on BPD are available for those seeking additional resources."
+    },
+    {
+        "instruction": "what is schizoid personality disorder?",
+        "input": null,
+        "output": "Schizoid personality disorder (SPD) is a long-lasting condition that affects social interactions and relationships. People with SPD struggle to connect with others and show emotions, often preferring to be alone. They may appear distant and unresponsive to strong emotions like anger. It is important to note that SPD is different from schizophrenia. While relatively uncommon, SPD can cause distress, particularly in social situations. Treatment options include medication to manage symptoms and psychotherapy to develop new skills and improve relationships. Seeking help from a family doctor, a psychologist through the BC Psychological Association, or a HealthLink BC navigator is recommended for those with SPD."
+    },
+    {
+        "instruction": "what is antisocial personality disorder?",
+        "input": null,
+        "output": "Antisocial personality disorder (ASPD) is a long-lasting pattern of thoughts, emotions, and behaviors that cause distress. Individuals with ASPD disregard laws and the rights of others, lack remorse, make reckless choices, and believe they are superior. They may be manipulative and deceitful, and some may appear charming. ASPD is a spectrum, with some people acting out occasionally and others frequently breaking the law. While it is only diagnosed in adults, problems with conduct and antisocial behaviors start in childhood. Treatment for ASPD, usually through psychotherapy, can help reduce harm and develop empathy. It is a treatable condition that may improve with age. Only a healthcare professional can diagnose ASPD, and seeking help from a family doctor, psychologist, or a health hotline is recommended."
+    },
+    {
+        "instruction": "what is obsessive-compulsive personality disorder?",
+        "input": null,
+        "output": "Obsessive-compulsive personality disorder (OCPD) is a personality disorder characterized by inflexible thinking and a need for control. People with OCPD expect perfection and order in everything they do, sacrificing relationships and other aspects of life. They may prioritize work above all else and struggle with completing tasks due to perfectionism. They have a rigid understanding of the world and may struggle with uncertainty. People with OCPD may also have difficulty spending money and may hoard possessions. While OCPD shares a similar name with obsessive-compulsive disorder (OCD), they are different illnesses. OCD involves illogical obsessions and compulsions that cause distress, while OCPD views thoughts as logical and may find pleasure in completing compulsive tasks. OCPD is one of the most common personality disorders and treatment may involve psychotherapy, medication, and self-help strategies. It is recommended to consult a healthcare professional for help with OCPD."
+    },
+    {
+        "instruction": "what is binge-eating disorder?",
+        "input": null,
+        "output": "Binge-eating disorder (BED) is a type of eating disorder characterized by episodes of consuming large amounts of food beyond feeling full, accompanied by a loss of control. People with BED may binge eat even when not hungry and can experience temporary comfort followed by feelings of depression, guilt, or shame. Due to the negative emotions associated with their eating habits, individuals often keep their disorder a secret. BED is distinguishable from occasional overeating as it involves frequent and prolonged episodes. However, it is important to note that the disorder cannot be identified solely based on appearance or eating habits in public. Thankfully, BED is a treatable condition, and it is recommended to consult a doctor or mental health professional for further assistance if one suspects they may have this disorder."
+    },
+    {
+        "instruction": "what's the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?",
+        "input": null,
+        "output": "Sometimes, people confuse dissociative identity disorder, formerly known as multiple personality disorder, and schizophrenia. Schizophrenia does mean split mind"
+    },
+    {
+        "instruction": "what's the difference between psychosis and schizophrenia?",
+        "input": null,
+        "output": "Psychosis is a syndrome characterized by a 'break' with reality and includes symptoms such as hallucinations, delusions, difficulties concentrating, completing tasks, and making decisions. It can affect various senses and may be caused by mental illnesses, extreme stress, lack of sleep, trauma, drug use, brain injury, or other health issues. While schizophrenia is a mental illness that causes psychosis, other conditions like depression, bipolar disorder, dementia, and borderline personality disorder can also lead to psychosis. Seeking help early is crucial as both psychosis and schizophrenia are treatable."
+    },
+    {
+        "instruction": "what are positive and negative symptoms?",
+        "input": null,
+        "output": "Positive symptoms are additional symptoms that are present in schizophrenia, including hallucinations, delusions, and repetitive movements. These symptoms add to the person's experience and may not be based in reality. \nNegative symptoms are symptoms that take away from a person's functioning, such as the inability to show emotions, apathy, difficulties with communication, and withdrawing from social situations. These symptoms can impair a person's ability to engage in daily activities and maintain relationships. \nCognitive symptoms are related to thinking and can include disorganized thoughts, memory problems, and difficulties with focus and attention. These symptoms can impact a person's ability to process information and make decisions. All three groups of symptoms are commonly associated with schizophrenia."
+    },
+    {
+        "instruction": "what is a prodrome?",
+        "input": null,
+        "output": "Prodrome refers to early signs or symptoms of an illness that appear before the major symptoms start. Psychosis, found in disorders like schizophrenia, has a specific prodrome. Common symptoms in the prodrome of psychosis include changes in thoughts, feelings, and behaviors. These symptoms can also be seen in other mental illnesses, so it is not always clear if it is a prodrome of psychosis or something else. Seeking help for mental health concerns is important, as early treatment can make managing and treating psychosis or schizophrenia easier."
+    },
+    {
+        "instruction": "i'm an adult and i think i might have adhd. what can i do next?",
+        "input": null,
+        "output": "Attention-deficit/hyperactivity disorder (ADHD) can affect individuals into adulthood, with some people not being diagnosed until later in life. Seeking help from a family doctor is a good starting point for diagnosis and treatment. Resources and support can be found through organizations such as the Canadian Attention Deficit Hyperactivity Disorder Resource Alliance (CADDRA) and the Centre for ADHD Awareness, Canada. Both offer information on adult ADHD, assessments, treatments, and resources. Additionally, CHADD Vancouver provides a monthly support group for adults in the Vancouver area. These organizations aim to support individuals with ADHD and provide education and advocacy."
+    },
+    {
+        "instruction": "what's the difference between substance use and addiction?",
+        "input": null,
+        "output": "People tend to use the word addiction\" to mean very different things. \"I am addicted to shopping\" might mean only that the speaker likes to shop. On the other hand the evidence however substance use is more complicated than just \"good\" or \"bad.\" It's helpful to think of substance use along a continuum from beneficial use to harmful use. Along the middle of the continuum in general substance use is a problem when it causes problems for you or others-and how much use causes problems will be different for different people in different situations. The reason a person uses a substance influences the risk of developing problems. for instance"
+    },
+    {
+        "instruction": "how can i find help for an alcohol or drug use problem?",
+        "input": null,
+        "output": "If you are looking to change your substance use habits, seeking support is important. While some people can do it alone, most need help from family, friends, healthcare professionals, or others facing similar issues. The right support depends on factors like the type and amount of substance use, health and social circumstances, and personal preferences. Seeking help doesn't mean giving up control over your own choices. You can still make decisions about the changes you want to make. Talking to a trusted doctor or nurse is one way to seek support, and they are bound by privacy laws to protect your information. In British Columbia, the Alcohol and Drug Information Referral Service offers free, confidential assistance 24/7. They provide information on treatment options, support groups, and other resources throughout the province. You can reach them at 1-800-663-1441 or 604-660-9382 in the Lower Mainland."
+    },
+    {
+        "instruction": "how do i know if i'm drinking too much?",
+        "input": null,
+        "output": "Determining if you drink too much can be complex, as everyone's relationship with alcohol is unique. People seek benefits rather than difficulties from drinking, but excessive use can become problematic. Drinking becomes an issue when it negatively impacts our lives or the lives of others, which may not necessarily mean consuming alcohol daily. Even excessive drinking on a single occasion can be a problem. What's also important to recognize is the potential for negative consequences related to drinking in various contexts (i.e. places) All alcohol use involves some risk. The reasons people use alcohol can influence their risk of developing problems. For instance if a person uses alcohol to enhance special celebrations by reflecting on your pattern of drinking you can manage your risk for immediate injury or death your chances for long-term health consequences such as cancer or heart disease whenever you decide to drink alcohol it is helpful to know what steps you can take to ensure that your drinking behaviour is the most rewarding and least harmful possible. The following are some useful guidelines to consider. Tip: Keep less alcohol at home and set limits on how much you are going to drink each week avoiding drinking on some days. Tip: If going to a bar stay with a group and choose an establishment that is well lit and near safe transportation options. For information on treatment options and resources throughout BC  call the Alcohol and Drug Information Referral Service at 1-800-663-1441 in Greater Vancouver. To better understand how substances play a role in your life visit the You and Substance Use workbook on the HeretoHelp website. The Canadian Institute for Substance Use Research formerly CARBC"
+    },
+    {
+        "instruction": "if cannabis is dangerous, why are we legalizing it?",
+        "input": null,
+        "output": "Cannabis smoke contains cancer-causing toxins, but the risk of certain cancers is lower for cannabis smokers compared to tobacco smokers. Cannabis also has less negative effects on the brain compared to substances like alcohol. Legalizing cannabis allows for regulations to minimize potential harms, as it enables testing and quality control. However, cannabis obtained outside the government system may contain unknown contaminants. The legalization also provides an opportunity for open discussions about drug use within families and communities. The Canadian Institute for Substance Use Research supports efforts to provide access to healthier lives for all people, whether they use substances or not."
+    },
+    {
+        "instruction": "how can i convince my kids not to use drugs?",
+        "input": null,
+        "output": "Parents can influence their child's ability to make good choices about alcohol and drugs by helping them develop skills to assess what is beneficial for their life goals. Maintaining a supportive relationship and fostering open discussions about drugs can strengthen the parent-child bond. Engaging in thoughtful conversations with young people allows them to reflect on their thoughts and behaviors, promoting critical thinking and reducing the risks associated with drug use. Conversations about alcohol and drugs can arise naturally in various situations, such as family celebrations or when discussing experiences from work or school. Continuing to talk with teenagers and young adults as they navigate adulthood helps them establish personal standards, minimize risks, and critically evaluate societal beliefs about drug use. The Canadian Institute for Substance Use Research is dedicated to studying substance use and promoting healthier lives for all individuals, regardless of substance use."
+    },
+    {
+        "instruction": "what is the legal status (and evidence) of cbd oil?",
+        "input": null,
+        "output": "CBD, or cannabidiol, is a non-psychoactive component of cannabis that is extracted and made into an oil. It does not produce a high and is legal in Canada. CBD works by directing the body to use its own cannabinoids to produce therapeutic effects. It may provide relief for chronic pain and has been used in the treatment of multiple sclerosis and opioid use disorders. CBD has been approved by the FDA for the treatment of rare forms of epilepsy. There is some evidence that it may be helpful in the early stages of Alzheimer's disease. CBD is generally safe, although potential drug interactions have not been extensively studied. It is important to monitor its use and seek assistance if any problems arise. The Canadian Institute for Substance Use Research is dedicated to studying substance use and promoting healthier lives for all individuals."
+    },
+    {
+        "instruction": "what is the evidence on vaping?",
+        "input": null,
+        "output": "Vaping is the term used for inhaling flavoured liquid that is turned into vapor using a device. The liquid is heated and inhaled into the lungs where nicotine or cannabis enters the bloodstream. Vaping devices come in various types and sizes and the liquid contains a solvent, flavor, and nicotine or cannabis. Vaping is seen as a less harmful alternative to smoking cigarettes and can potentially help people quit smoking. However, it still carries potential risks as there is exposure to nicotine and possible carcinogens. The long-term health risks are yet to be determined as more research is needed. Marketing strategies for vaping products target young people by offering a range of appealing flavors and designs. It is important to have discussions about vaping to help young people make informed decisions. The Canadian Institute for Substance Use Research aims to provide access to healthier lives for everyone, whether they use substances or not."
+    }
+]
